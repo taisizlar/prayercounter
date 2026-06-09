@@ -5,7 +5,7 @@
   <br/>
   <img src="https://img.shields.io/badge/Android-21%2B-green?style=flat-square&logo=android" />
   <img src="https://img.shields.io/badge/Version-14.0-gold?style=flat-square" />
-  <img src="https://img.shields.io/badge/License-GPL--v3-blue?style=flat-square" />
+
 </div>
 
 A simple, lightweight and accessible prayer counter (Tasbih) for Android.
