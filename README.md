@@ -4,7 +4,7 @@
   <img src="icon.png" width="100" />
   <br/>
   <img src="https://img.shields.io/badge/Android-21%2B-green?style=flat-square&logo=android" />
-  <img src="https://img.shields.io/badge/Version-15.0-gold?style=flat-square" />
+  <img src="https://img.shields.io/badge/Version-16.0-gold?style=flat-square" />
 
 </div>
 
